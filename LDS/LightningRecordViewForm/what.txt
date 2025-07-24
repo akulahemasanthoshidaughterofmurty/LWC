@@ -1,0 +1,1 @@
+Lightning record view from - allows us to query and show particular records without using any apex
